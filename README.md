@@ -14,3 +14,4 @@ make talk-llama
 ### download models
 https://huggingface.co/ggerganov/whisper.cpp/tree/main  
 https://huggingface.co/TheBloke/LLaMa-13B-GGML/tree/main  
+https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/tree/main  
