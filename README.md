@@ -13,7 +13,7 @@ GGML_CUDA=1 make -j talk-llama
 ### run
 ```
 cd whisper.cpp
-./talk-llama -mw ../models/ggml-medium-q5_0.bin -ml ../models/mistral-7b-instruct-v0.2.Q3_K_L.gguf -p "bot" -t 8
+./talk-llama -mw ../models/ggml-medium-q5_0.bin -ml ../models/mistral-7b-instruct-v0.2.Q3_K_L.gguf -p "xl" -bn "bot"-t 8
 ```
 
 ### download models
